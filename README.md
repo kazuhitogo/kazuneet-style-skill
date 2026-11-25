@@ -33,3 +33,7 @@ cp -R kazuneet-style-skill/.kiro/skills/kazuneet-style ~/.kiro/skills/
 
 - スキルは、検証していない結果や数値を書かないよう指示しています。
 - 本人の名前を使った記事の公開では、本人が書いたと誤認される書き方を避けてください。
+
+## ライセンス
+
+MIT。ただし `references/examples.md` の引用は、呉和仁本人の記事からの短い抜粋で、各記事の権利は本人に帰属します。
